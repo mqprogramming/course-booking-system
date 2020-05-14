@@ -31,6 +31,4 @@ public class CustomerController {
         return new ResponseEntity<>(foundCustomer, HttpStatus.OK);
     }
 
-
-
 }
